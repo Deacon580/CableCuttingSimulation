@@ -1,0 +1,10 @@
+# ninja log v5
+115	320	7451477663448776	finalSimulation.exe	8d0e941764d4f2ea
+4	258	7451487448927276	build.ninja	9d90c164f9f8080
+14	192	7451487474047401	CMakeFiles/CableCuttingSimulation.dir/main.cpp.obj	76fe3e4a1f426b67
+23	195	7451487474017416	CMakeFiles/CableCuttingSimulation.dir/initCamera.cpp.obj	5976eaef00294b2f
+32	215	7451487474272674	CMakeFiles/CableCuttingSimulation.dir/debugOption.cpp.obj	cd1dab7c8f7bfbe8
+41	221	7451487474323662	CMakeFiles/CableCuttingSimulation.dir/staticParts.cpp.obj	a5a20c951c8edf3e
+55	252	7451487474639345	CMakeFiles/CableCuttingSimulation.dir/movingParts.cpp.obj	6cf42deda7b73f2f
+65	255	7451487474700192	CMakeFiles/CableCuttingSimulation.dir/operationControl.cpp.obj	2cf592b675c02c2a
+261	506	7451487477041142	CableCuttingSimulation.exe	d9e58fdafa027e4a
